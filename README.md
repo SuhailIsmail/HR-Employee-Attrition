@@ -1,7 +1,7 @@
 # HR-Employee-Attrition
 Predict employee attrition using machine learning models, SMOTE balancing, and visualize insights in an interactive Power BI dashboard.
 
-Dashboard.png
+![](Dashboard.png)
 
 # HR Analytics – Employee Attrition Prediction 🚀
 
